@@ -1,0 +1,44 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"98b95c0c4c2255eb793c927b45448dbbe5647ebb1da3dfbb149afe3c5567d873\"",
+      "data": "H4sIANEBoWYC/+2XYW/aMBCG/wrK54JJwiggTZU6ukmb0qkTZRtVFTmJSdw5cWQ7YSHiv892EmC067bARyQkxOXuucud/do8lEbGiDHpGJEQKZ8AAFPcC7GIMq/n0xgwlFIOrhGhqwVi9BMiOU6A8276pTuFhcAxki4EQY44GIz65siy+8ZFx4CcI8Hd08NBRVY5spRQGBzmqKz8RHnKqwTG6IJAD5GNShqJmBym3Ev1b0kEDEFu9sye7hUOJKzJq3qXiYgyaSsNQkOcqFQH3G3Y0B7ZtgyUvxMaIFcbDWd6N5x/uyX+0/f156mzdmZhoaeSQwHZs6loa9OxjCPm00SgROg3ykCT4yp/O1CUkNWcKpkexatzVshn/f//ZqqIJSXSJnFui5RgG71D4SQ8AiWjS0BFhGRTpZteISHmol15OrLUX7K3GsZlnxkKWuHqWFngKpG1lXofVNTM4z7DqcA0aVfqbwSFpCyECV7D9khJ0CS9W1sRdKRCoFyu3naMKrQEKcM59ItNVZGPcC6ncAT3gKGwokiR4tzLAD0VLJALg1jv+CUkHG0Ot7U/vI/nfPH1/Xoxuxs405uB8+SsNAyGrpIq5beTFrkCQiRcWVaMBeaRpihJsno/1fMmolaoThXZWVLW2XcLGFyKpij5O2Wo1rI9o88QFPIFofI0rL5ldvujrjma9QcTW30WCpVmHpGF/MlvOLHMxe4AkR4PpzyiKioYWMPxpWmPd+pbGw77fVN8Jh+J92Ee+db82rdvSTC9K26fftjOzHnzQge7VQd7sR/omeqDQz5PMkK2RxY6i/tZ3M/ifhZ3o96LbuMN05RgX/cZUF8g0eVCympcrxahnWoRCSrsWtlMs69ujoFcDPpO7NMsUfJqWePR36R5ODEvF9V9OnjVa6y9PEZX8p3cba5jL8MNqL4Rg5eUdPNYHWYeJOT4PxU1aO8KvsbpadA1aA/t0aDQSrp5/AWbSbDCbg0AAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAMrK+WUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "42697139": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daytime",
+        "name": "Daytime",
+        "version": "1.1.0",
+        "link": "https://github.com/BelowZeroKelvin/MCDR-Daytime",
+        "authors": [
+          "ZeroKelvin"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.0.0-beta.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "show time in minecraft",
+          "zh_cn": "显示游戏中的时间"
+        }
+      },
+      "size": 1100,
+      "hash_md5": "e0808d054097d2c4428659ad22f76ef1",
+      "hash_sha256": "f07508e6301f3fbaa2f54b04b9dec9771c0e9a33abd8e014d0590decf61661bc"
+    }
+  },
+  "repos_info": {
+    "etag": "\"ccba0a0427a20f3434c9bb00ec80fc49bd93db0b0d4c3ea9d7e85bc363672b9b\"",
+    "data": "H4sIAJT0YmYC/62Ye2/bNhDAv0rrf1dH8tsxUHSPDAM2pOmKbGizDAYlnSTWFKmRlF1b8HffkXrYcoPFcwgEjnXm/Xg8HY93LHs06i1eDSfzwXw6GPlvXvW4iGBppb3bm583d+xXFv5yvSOfPq5Dvtq+v0++3t18/nq7++FtzwwnGdixP9187N+Qrab4jPK4YGzZ/PgjMLF5ACl+A7am3DsdnEu6JtoMjQlTgBKx4SDxuewxkVD+BMToWTOno/loNJgPT23/ffrnp/cs/PJ5d3dzu7u9T7ZGheBERC4LycyoVOtcLTyvkqqrhOq0CAoFMhRcA9dXoci8wmvmeLd+OzaURNacajIjOiXmtKZVCEQq74klpDpjp9Yc6T2hEQuGMsQtL5jSa7UPKMqTF6BQu/SETgGdisP21j1U6cvMs5ql/Ye+tTCFfpYQXYSrddFAE0/70pOQi4paBCqUNNdU8MtM7RAMUsiEcLojlyORYEnGyssIVtMgYI3RexmjUi09uyvD7b6yKAS6xrfwAu4Jw2D1NrcJ4g9UsG+FaliSKLM73uaC/f/eI99klwja92QIj8U4nsWPxWwynL9+HVXjHovpDCYonPkBfofRHD+HPg4bwzBC+XQ+Rskknj4Wk+EoqHaPXB2lrP92iX0xz5pqkM8593mSZzGGt4KtA5yhlOaz2ZIh7nwSCEm0kA74HVzZebTTaSCZg2ksxuZcIVx42WLsMaRUAeftjDOwlqbaXciLLKjTqqsZDvuPKEUTDuAA2qJKrz0HAkl4mLqgN6Sy/lbFBUlchAWpkm7AROAAh6M9iyo9lZL6ONRLN7YauCF12RJiR2xDOrC1dBIZ1mhpI6Mh47msMUocwBuSVzZsRnhSkMQFvEU1dUhCdiDdWF2zqnTKtaRB4SqbHmhHlU7gxvAD7LSKcgavTmrrlyyj2olLLKi7a5zRTXx/M4MRuMnWDalzFFRHTv2TszPnyanqTshRZBqSV36XE502fsqJBCduMiCvDAhWjVdXV2UKpCpXMpBO0kHFseemDFMsZV+OLBsSlmwZ0bZDia3REbYsTJDIgd0tqo0cZ2VKJ1Jy7PkdkC2mA84oA6UFd/ISW1ZnCi40jWl4VvN2xiwdXPlOUR7CG8LYG4xRTUOK8Y+Nc31eBcCcHFaGg4siGdQ9GwPi5JBtSKVXNwAR5ExsHSW4I5jNCBKIxi6RaIMd+kO/74/7w9H9YLAYXy9G1w/2uiWPuqNGfX/Q92f3/mwxHuLfQxWRKj0eNO77UzNo4C/Gk8V49tAcBvUi8Ov5vaVZpj0EVXqk//1Be3GOdsgwFi/sblsL1vwF/XEqMsixykF1jlvPtuE78zTuVj2hKLhx5AjFG6KxHD8RNuWSsePDVqfVKZ4StaySBcq1LKCW5VJ8gVCfSA+5qiPe0BU9Ubd12aH9tspUhQX2IeZC5vBL1VQ3hvo2n0gpmkvAes11Io6OFBFHAtYRiRx4vZoOkdEQuDpyITF3Yyarr3CfHyynaqkhy1n3tnMDQV2OLE0TJeIYa/p/Cio7c2uR09As7K+/8WlNFQ0oo3pr3J0XAZrQXiHUVh1ZW0ua91a/sQhiUjC9rJoqA8qI0tVdTA4yo60zy17nWsY4kVCuSUdkttuxwZJW0XD4nbHaF3vb12f5sop/LVbAm6tUDnqDq+g4+LiKbeSD/b++ZRz3wBYAAA=="
+  }
+}

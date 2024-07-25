@@ -1,0 +1,92 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"e45a28f7248a069b7672c52dedbc60794444b165f6ccf04317306f4a5103efbe\"",
+      "data": "H4sIAOXxoWYC/+2Xa3OjNhSG/wrjz2sjxJ2Zzk6ybju9OJl0nLTrdccRIDApBgaEE9uT/94jga9JvFnH9ie+kPhw9B4hwavzfFu0yjxuOVJrzFhWOLJMsqgTRmxcuh0vncg5zdJCvqRx+jigefoHjadRIve+dP9qfyF5Rtllyv6MCgaJMSUFLWTNwrqFbNT6JLVIUVBWjE5VQq70eaUyi1Pi71aqosVRqy0+J2RCP8XEpfEzLz1mk3i38EbBHynFSChPcUfpKFw48kFyWZ2vZsnGaQ6xRStOwyjhBXfUV8MM1VJVxcLwO0l9OhLBVq97Y9z9cxV7D1/n193evNcPZ2KfpoSR/MU+iehy9cqC5l6aMJow8VylvKzxefqTxlXCvNapiolt2bvzXPLFXvz4kvIRQRpDDORGB5SUV6PXUlESfkAKRi/klI0pLCqkifckhK0+bHpi5EL8gbUVYgWsc079g+TqsTDBxwTmthDfRKVauoWXRxmL0uSwqW4pcMk0D0kSzcnhkqAglMSXe5CCGMkl6BTe3sM0qqELOcujKfFmz9WMPBpNYRc+oLujwWXZLKNc5xYGiF2JGB0RfyK++IDEBX3e/aw943ZyVwz+/mU+6N9ovYdbrdf971GIkXDEDYvnra0F3oCQshFMaxKxqBgLFW5MuPPE7y9HbPlUWwyXgjSXNnP9nARsOTP4neW0NrSNoJdTwuApCc9sYYSVNrLaWO0jw1GQo+EBl8pKN4bZvJVnOKo9WJ8rkPHt+OdXpS1rKjIUAxlrI64Du0v/8+w6/j12f70be/ju0lOvYr97M+91vz5dPVzgtxez2ozOxPPFJovzBLKSMo5X5xlt3L5x+8btG7dv1d/iaJlNsiyOPLHOcuoxytoFA4ud1G8LE0m1ifiV7JzHFFvlDubDyyAaZi8tE261WBHxvTZtOkgfVM22vzfLFFlunj7CM41WtY7TIy/l6kZZfttVn/+tTjqXxPGxGKSW2+jS51F2zAK13EYBN/VnXLktDUvdxJZ0nyajLCYzWNsoCdJ7iGsU+3DXDWw3ZfAPJgiuiqHDrYAqwxIOrmBYWoHvwtXSPLjaVIW4CaQGL9gJOBCUsW2elAPrEmfiwO1qZ+FAtG4/6uoNBzadQdMZNJ3BOzhQve5fzK773usciD7GgeiYHKgYfUVxsOWo1l4OrPJU1dGss3Eg1nVVVTeMuA68iwNnV/3bOfjr43c4EDUc2Lh94/aN25+LAzXFUl7jQEW17O/YNLdftIcD11nK+TgQyW+76sk5EJ2aA9EuBwLUUQA8G/nSfTVO6qU+J0FDRSbnQapJ93JFidLT05NUjAmsGM8ASuT4pwTasDQNC6460sQYl0CE+hwUXQLQqAcIw5WqliQN82FSVTbhvqlja7MW/G8pHDNNoUcDsjWT1WgDGx6PWQafvUK4nm5X84DTLYRX/0QwamKYsnZSGK1KnAtGt6qdAUbRFoxW1RsYbdqTpj1p2pP3wOjV/Del9xCiV2AUfQxG0ZFhFPeRCc2Lo5n7YbTK05d9zllgFJtYQfYGjFaB98Fo78Gb9foX+l4YRQ2MNm7fuH3j9ueDUdWwjNdh1Da/Z9O6o+J9MLrK0s4Fo+g1GEVnglF0ahhFL2HURhwTbUUDGF2ewffwoP8D9aaw8F0qAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAEF7DWYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "43061606": {
+      "meta": {
+        "schema_version": 4,
+        "id": "carpetbotlist",
+        "name": "CarpetBotList",
+        "version": "2.1.1",
+        "link": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "authors": [
+          "ZeroKelvin"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.0.0-beta.1",
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Help you manage your carpet fake player",
+          "zh_cn": "帮助你管理地毯端假人"
+        }
+      },
+      "size": 1936,
+      "hash_md5": "265f1843ce4782cd5d4c2f48833208b4",
+      "hash_sha256": "8fe0639fc174c8a070a113e82d132ad6f36dda09ce72b0ce68512ec9b715cc72"
+    },
+    "42553330": {
+      "meta": {
+        "schema_version": 4,
+        "id": "carpetbotlist",
+        "name": "CarpetBotList",
+        "version": "2.1.0",
+        "link": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "authors": [
+          "ZeroKelvin"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.0.0-beta.1",
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Help you manage your carpet fake player",
+          "zh_cn": "帮助你管理地毯端假人"
+        }
+      },
+      "size": 4181,
+      "hash_md5": "da8e9ccada77a021eee570e2721f403f",
+      "hash_sha256": "6b87dce973455ea546264d0b0c03926d67d6193c7dd0165f753b9198e44d90af"
+    },
+    "42272109": {
+      "meta": {
+        "schema_version": 4,
+        "id": "carpetbotlist",
+        "name": "CarpetBotList",
+        "version": "2.0.0",
+        "link": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "authors": [
+          "ZeroKelvin"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.0.0-beta.1",
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Help you manage your carpet fake player"
+        }
+      },
+      "size": 3686,
+      "hash_md5": "41cc2cdd08f0f8e741564261e80b1582",
+      "hash_sha256": "d1c82eb70b24abead4620ed5067c1c203d1ab618ce91d16e74f7b36d78c77145"
+    }
+  },
+  "repos_info": {
+    "etag": "\"bbed4d9d12d89076ab402009c8c72e4d6ded53abdc63a4075d5a1ab99948ef04\"",
+    "data": "H4sIAMfvgWYC/62YbW/bNhCA/0rqr4sjWbJjx0DRoc0wYFvSrkiHNstgUPLZYk2RGknZswX/9x2pN8vLNtfhF1s68Z4jj+TdkUWPznvTi2B0PR7eBMPR5UWPiznMrLR3d/vD5j37icU/3uzI54/rmK+29w9fwvtb/L/99LpnmpMUbNt3tx/774jMQL8V+heqtPm6yBmb1U3eAhObR5DiZ2Bryr3nVTJJ10QbhQVhClAiNhwkvhc9JpaUP4MyerbL1+EkDAeT4Hgcv17/9vmexV+/7N7f3u3uHpZbo0LQEJGzXDLTKtE6U1PPK6Xqakl1kke5AhkLroHrq1ikXu7VNt6sXw8NZSkrTmnMiI6JGa1oJQKRyntmCIlO2XFvDvSe0VgIhjLEzc4w6TXaLYry5QtQqF14QieATsVme+senNfzumc1C/uHvrUwhX6WMD8LV+liB8162heehEyU1DxSsaSZpoKf19UOwSCFXBJOd+R8JBIsyfTyPILVNAhY4+o9j1GqFp7dlfF2X/YoBrrGWXgB94hhsHqb2TDxCRXsrFANMzJP7Y63sWD/zXvkX2LMHJrZMpynfLgYL57y8SiYXLx6FQnNsOHFU349hhGKx370lI/GoY+SCExDYn5H/nCMqhARfA4G+DyZXE/KvSRXBwHsvx1kp+nEjhvw/zn8VJ5nYYa6gq0zqGEV5rfesjFGBhIJSbSQzqx0oEXn1RrVQFJnxizMxmch3HnfwmziUiqH0/bSyXDLVM3u5XkaVeHYrZ129xKl6JIDOEM3wMJrckkkCY8TdzZqXlE9lWuHLN0tHVIG8YiJyBkUdTwLLDyVkCrJ6pnLfhsThte1IGHh1ILhtRa0dLh67ACkXT01H/O/xpXkzETN84raAiN8mZOlOxMNsK59lmQH0uUIKmIZqLmWNMrdxumWeVBpRS4H0SKPaznHJsp6wXoqTal26CSL6+41xzbMfviHHSNwmQ1qXifhlOmt+uQ4vz1rsDqtOV3DhucV32VEJ7XnMiLBoeMMzisiglXu1dVVkQApy6cUpMOAUtJsvpZxggW4K3BR87CoTIm2p6uFHcAcj1tMkLmzMTTAZnU5Lps6qynLGXPGt7AOPqUMlBbc4RQ3xI4hLjRd0PikA+nJtjrQ4o2iPIZLwtglrmZNY4r7hfJllRsjYA4To6HhAEkK1ZmUAXGY3Gte4VXHmDlkTGydhssDpI0pEojGEzHRBh74gd/3h/3B5GEQTMNwOrx5tFdL2bzbatD3J/3Qf/BH03A49cPHctWq5LBR2PfHfX/04AfTIJz6o8c6zVRDwcdvPUebIduEq5IDyvctY3o6I2a4Xl90qm96s+Yvvh1IRAoZVl31bZ6iO/McjrpFWCxybvw7QPGGaDxHHAnr6s1wPmx1UhYPCVGzMs6gXMscKlkmxVeI9ZG0DXYd8Yau6JG6LRPbOwerTFWc4zHK3Em1X8o7hLqjgQ1CUor6HpRjjGrzw/xAEXEkYh2RyIBXo+kOncbAFRzgzPWgSQ4rDAhtz6maaUgz1r3w3UBU1T8zcwYUiwUePf7MqezY1iKjsRnY73/g25oqGlFG9da4O8sj7EJzY1KN86C3R/NWvc5hQXKmZ+VpsLnWDq7+spsKZEobdxa9zt2UcSOhXJOOyOzDwy5LWq6H9jtjlTf29toizWblZtBiBbxegRz0BsfRmbTDUrpx/f5vE08/KtEXAAA="
+  }
+}

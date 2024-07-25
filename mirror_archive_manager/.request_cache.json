@@ -1,0 +1,49 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"f3558e9ebeffe19bb10b2f0245c73ad90d9366a72232a913a52be76dbb9b9ca2\"",
+      "data": "H4sIAICLomYC/+2XXWvbMBSG/0ox9K6JbNdJ7EAp7VLYB2nZKGO0FCPbqi0mW0aSE5KQ/74j2UncdFsLTu9yFawcPa90jvQe+3FlVYJZ4xMrU6qUY4RwSfspVVkV9WOeI0FKLtEVzYkoFmhKheDiSsQZnZEpLnBKBIQwgiWRyBkOg8AejgLr7MTCUhIlww+goxqtRaqScZzsi9Sj8lBCq8sC5+SM4YiwtVbNVM72NVta71NROEUzu2/3HY2kCcC2wjp9lcq4gMGVxXhKC61Va/RwrCgv5GPE1dN2ruf4ge/6LjwXPCGhGbSmk+nwex7Yt5Mb7+4+XdxNvlyY4sywwuJVcczoJm+VJCLmhSKFMtuiBXIG50P/cnbhaUYqGkotZcrx32JroEQvN3E6uIZtnA4m78grLsv96XrWM2eMzwEddpBHW8oOSYv0AEigrBBXGYF0Q7g5QCmVqttyDWFlfiD/BiqhFoIknbANAxY8L2CtK3NvanoVyVjQ0kzoptEmaTQXKS7oEndHA8kQzW3vRDIEjSIzOP/dWDVihUpBZzherOsVxgRcIQkPwN9jabxalETzrrkyxaOKhDjJjY08YybJ+qVP/LgJf88nd9OfIzb1va/B9e0vg8FpqL1Ph+y8Cs5ISlQIC8upojLT/+YY2Jr5KjoR+FltZOG5FKTxwNZgLAhWsAOsIy3Xdr2ePeq53r0TjM/t8WDwoFFlFTHQ+1ecN3b8h13rgYjHQ3a3mooc3xk6w9FosLPtzcheTq/aOf1m258+tzP0N7FenbZ+HidCx5qWszVX09XIsScce8KxJxx7wsf0hOZyh5tguF+MxqYMiMeKqJ5U4NV5c7iUCWqcKamxSz3meueurd0fDo15RY95VWjTdt5ye3Dx4KH2u+QdUZHgc8hEuBXq+l6+ATUv5+hNn14/1T0xwox1/9xpQK1PgyUtD4NuQC10xJOF8en10x9oJ5uzCQ4AAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAIt+omYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "181616775": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_archive_manager",
+        "name": "MirrorArchiveManager",
+        "version": "0.0.1",
+        "link": "https://github.com/Aimerny/MirrorArchiveManager",
+        "authors": [
+          "Aimerny"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.12.0",
+          "prime_backup": ">=1.7.4"
+        },
+        "requirements": [
+          "mcdreforged",
+          "requests>=2.31.0",
+          "fastapi>=0.111.1"
+        ],
+        "description": {
+          "en_us": "A plugin for mirror server archive management based on prime_backup. Supports managing multiple mirror server archives",
+          "zh_cn": "基于prime_backup的镜像服存档管理插件.支持管理多个镜像服存档"
+        }
+      },
+      "size": 24320,
+      "hash_md5": "8c0923bf9c6d0175a3d33f73cc01a830",
+      "hash_sha256": "e465d48b72b894de3b2626ba8de74c18db1d69b57133f55d488ffdfcdfac8d9c"
+    }
+  },
+  "repos_info": {
+    "etag": "\"d68aa1513071cd427e59b9dadc349de6d45a4bb7a71481514b234587de61e61f\"",
+    "data": "H4sIAIp+omYC/62YbW/bNhCA/4rgr0ss23HSxEDRZSiQL80WDMkGZBgESqIt1hTJkZQ9R/B/3/FFb16b2Cm/tNGR9/B4vjvyWI9IPlpE17Pri8nsan5xFo0Yz3FipaPfk/Xq82/3f3yg99uRGUIlNvJ7IiWXtzIryAbfI4ZWWJrxZUVp0ky6JSWWbBd/b7KQZIO0mbpEVGGQ8C2DoUVUjyhfEdaDmPnWpOlsejW7mc6vh4Y+WUN/eUnExa2Zi4CMZFJJakYLrYVaxLGTqvGK6KJKK4VlxpnGTI8zXsZV3MI/bT7ODWYlPcitYkSHSEE8zjGAqeKe0YUu6aEZvfm9mUtOKd+CenLCEnGr1SEIW70DAVp1zHWBwWswvLfbJ0qfZo7VqO1/4DMLUeA/ifOTMF4HDDIRsa9jiQV3tCpVmSRCE85OM22gaVBcrhAjL+h0FGhagrHqNE2rYVTxBsLuNF2nUsc2b7Ld3lmQYciqPHkH70DX4PRO2NR9Ui5FFdE4QXlpc9Fm6f7omP5u3ue4/R1shkelnRjBmhssI+QUotJqlGBaJGhlyoGNcLnuFYzXt2ud/aY5BvmW494mxRZjeGu8C4AzlNr826RRBlmKUi6R5jIAf4CrB592OY1RGWAZi7F1kPMQXrYYexgoVeHjov4IrKWpNsNYVaa+BIZaocsxpBRZMYwDQFtUHbc1O5WIZUUIekOq/V8uLtAqRFggV0BTytMAOJgdW1QdqwL5o0snYWw1cEMasiVeBmIbUsfWMkhkWKOljYyGDGeqhigJAG9Icd2wKWKrCsYCwFtUc3dYoRcsw1jtWa6cMi1JWoWqph2td0tJwxjewQ5vQMHg7jS2filLooO4xIKGWROMbuL7fysYQZhq3ZAGR4E7cvxQsDPnm0v5tiRQZBpSXP8kkC4aPwkkcRA3GVBcpwhuhuPxuC4wctcV0ApSDhzHnptu4MeRdUOCK1uJtO0ultboHNoNylEewO4W1UZOsGvKIFIEdNwByBYzAJeEYqU5C/IjtqzBEoxrsiTZUQ3YEasMcPUnRViGzxClZxCjmmQE4h+aXH9epZgGOawMBzaFSuz7MYpRkEO2IdWxbwByLCjfBSpwPZitCBIjDZ0g0gY7m8zm55MP59OLx+n1YnK1mM2e7dOHyL8xa3b5OJ0s5leL+c2zi0hVvDLp8rk5DPwm4M/j+0ezTXsIqqKn/3OnvThGO6MQi+/sYFsLNuwHeuCCl1jAB6gzSD3bar+Yr+nkZnjvyXjFjCsnIN4iDRfyA2FzYTKWPOx04c7xAqnElQuQa1lhLxOSf8WZPpB21Wog3pI1OVC3N7OuAbfKRGUVdCLmWaUbcW1131DX5nun+V37Upz3FAGHUjoQcYGZ381w6yTDTGH7Ygitso0GQc8vxpP+Y+Xdr0/RHWZYIho9VCkoRV+cYrTxU5XI//VvfHcPXxrA61nmF1dxf8nuRfL+c3b1eEe/Pv95+fL8uP44Mi8nyLy0mXNnDZWo8yxRicaloMPX0C1O/YUpMW0eXy6h6/inInLgG80FyYzj//obvjZEkZRQoq0zhN1t+8jhvdbz5kFc+c8cL1FFdeLaPgMqkXt+EViWpP2p69HgaejMzdNoIDLloG+uJC5Wu3FKvSf29t2hFInLT83XmDXPrgzrLexh8PP3b9mNfLr/D7WwqJLSFgAA"
+  }
+}

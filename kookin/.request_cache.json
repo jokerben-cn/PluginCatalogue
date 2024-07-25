@@ -1,0 +1,165 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"caa393ecfdb47e7d5ee29af19e82b68a30e05c51a2f9aebbd7f2f9a8ba18c613\"",
+      "data": "H4sIAKYsoWYC/+2ba2/aSBSG/0rEqt9KPHdfpKpKm2q316jZ7C1NhYw9gLfGtmxDlNL8950ZGzDEwFIGRZHmQ4g4PvOe8dh+zzxy8mXWmeRxxzvpjMoyKzzL8rPodBiVo0n/NEjHVs6ztLDOojHPkzvrfZp+e5uIYMz9ghcWZMzBNnRp5/lJxy8KXhY9LXpWJSZlJ1mc+uG6bBUtfl569jLxx/x57Pd5fC/rjMpxvF6lob5Jt/SH1hScwlMmRaJQDF+UkosyKUdpLoKzTpwOo0SqV6pdPyijNCm+9NPy62IsgY7rIAeJ70ka8p4Kdj6ef2Sfxy74dP6GXFwN7y7O375QSz71Sz9/sOQqOl+bScHzIE1KnpTqRKLEghQz5+X0BZEaw7xWqUqpJd96CaVgYa2exDP6SpzGM3r+P1bSz7L14XLUII3j9FZI9w4oby1UlpJRMtQgKVRmVlqOuFhuka5umWFUlIdNVynM1C+x/kq0ENci5+FBsrWGmPBtIuY6U89GpT7pF0EeZWrAYTWaSlI6zYd+En33D5cWSkpRPdEHKSkFKcWn4v4/TKuSmFlZHk394O6+mmHAo6m4Whr017SkfHmXcan3Ki3VxYtK3vPDsbKRgR8X/H7VJy7f9L7dnl+8/3X0rxuQd05/+kHJ+MOedDuZsvQqcY8MedkTExtHZVSM5NGxL7Sl5oPsMPcH5bys+J7lvPbARjDIuV+KM/BlZgcBRLrA7iJyBZiHiYfotZTKJv1Y1NuU53jIuV42FJHx5bAuVelY0IHExTayl0Y9j6yt4llzFd+DP3uD5ppU8t1qaU7HQZjLo6qRLAxUdSdufN/4vvF94/vH8f364e7Nk8XzFUeBugxWGpS87Bal8ONxfXOVKql2prCS/S5jjCEmfScUN43aagfpJJHGTHc5+sKpJ1m4NctVWf08vRUr0VsU2n+3PR9ab7mtFi++/1r1tr4fxz8DI/XQxqb+e5T9rFg9tCHWT8M75bfiEh4IX9RmmGBi64Kvud4R4GtNWjt80WVPn5cy8GWasGnCpgk/Fnxd/+HkrfBF94IvehB80S6yryD2CPAo2QJfizzoIXQU+LIBJg5wydKo55Gt8PUOkO4m+KIGvozvG983vv+E4QsiglgbfCG4y9KFVeON9PUwSzt9UavFjLXSF9VJX7RJX7+c3EwY7YObCXVcLj6RO7iZOGAQ3uQ3CTxVh5EIMQyg+ETMFocdEnx8fX558uPkd55PeS7GYTnOprBKFUmEcyI15I+sQgZuKIaGlMlsIjJs7tuLKq4NxCRE+xFVaACYnPlZFoksRByhaaNgZdzEgQOszgdrIUgKgYM1EmSldxSCXJHWTpCkSZBVKUOQZidhdhJmJ/FYBPkPuoOtBEn2IkhyKEGyK+B61PXADoKc52FyJIKEDDsYNgmyimwnyN8o3kSQxBCk8X3j+8b3nzJBQtD++g7vdvTaqTcA5CKLHgcgidXixVoBkugESKL99R0FACKkEb6U3nHgqymtHb7wCnypUga+TBM2Tdg04UeDL/DBb4UvvBd8YQ3wRT1EPMx2wpfIsz1iHwu+CLbRyuu7KrIdvl73ik3whQ18Gd83vm98/0nDFwSw9fXdLkcXTu3sgK9mlnb4wlaLF2uFL6wTvrBu+KKUYKDxzVetdwz4WpXWDl+oAV91KQNfpgmbJmya8GPB1+Vff7ut8IX2gi90IHxBfAWZhxyPuFvhq85zPUiPAl/MZoxBFzT+w7iObIOvd73x24tN8IUMfBnfN75vfP8Jw5fwndY/nYS7DH1h1O3stZ6lnb2Q1WLFWtkL6WQvpJ29MGMIUX3sVekdhb1WpLWzF2iyV1XKsJfpwaYHmx78WOz1Of902cpeYC/2AoeyF1RNmHkYbmeveR49FnthCqhjN9mrimxlr+71G3sTewHDXsb3je8b33/K7IVcd7/3XkujZtvYay1LO3sBq8WKtbIX0MleYJW9vv4Hr3WttbFRAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAI8JU2YC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "170163831": {
+      "meta": {
+        "schema_version": 4,
+        "id": "kookin",
+        "name": "Kook In",
+        "version": "0.1.4",
+        "link": "https://github.com/Aimerny/Kookin",
+        "authors": [
+          "Aimerny"
+        ],
+        "dependencies": {
+          "kook_api": "^0.1.2",
+          "online_player_api": "^1.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A MCDR kook useful plugin",
+          "zh_cn": "一个使用KookAPI对接Kook机器人的MCDR插件"
+        }
+      },
+      "size": 11062,
+      "hash_md5": "e1b4153b6fb3a0ee5867c5e95c6f36d1",
+      "hash_sha256": "52e48bd12e10b33e9c323dfd894bfcd7158cefea3c5ccafbeaff2b925b7c015f"
+    },
+    "170143724": {
+      "meta": {
+        "schema_version": 4,
+        "id": "kookin",
+        "name": "Kook In",
+        "version": "0.1.3",
+        "link": "https://github.com/Aimerny/Kookin",
+        "authors": [
+          "Aimerny"
+        ],
+        "dependencies": {
+          "kook_api": "^0.1.2",
+          "online_player_api": "^1.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A MCDR kook useful plugin",
+          "zh_cn": "一个使用KookAPI对接Kook机器人的MCDR插件"
+        }
+      },
+      "size": 11101,
+      "hash_md5": "5260b267761cb7883873aef65477fc22",
+      "hash_sha256": "2ef1f2f800e1efefe9b11f5fc718dac4f28ad808e2888323be3f27bdfabcadaf"
+    },
+    "167666190": {
+      "meta": {
+        "schema_version": 4,
+        "id": "kookin",
+        "name": "Kook In",
+        "version": "0.1.2",
+        "link": "https://github.com/Aimerny/Kookin",
+        "authors": [
+          "Aimerny"
+        ],
+        "dependencies": {
+          "kook_api": "^0.1.2",
+          "online_player_api": "^1.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A MCDR kook useful plugin",
+          "zh_cn": "一个使用KookAPI对接Kook机器人的MCDR插件"
+        }
+      },
+      "size": 9826,
+      "hash_md5": "255090f3d1a68202591b1b3f0ff06bdf",
+      "hash_sha256": "4d88e57435be29445707cf5476dee7d2e023a9ce16861d020b963cea426a5053"
+    },
+    "167350587": {
+      "meta": {
+        "schema_version": 4,
+        "id": "kookin",
+        "name": "Kook In",
+        "version": "0.1.0",
+        "link": "https://github.com/Aimerny/Kookin",
+        "authors": [
+          "Aimerny"
+        ],
+        "dependencies": {
+          "kook_api": "^0.1.0",
+          "online_player_api": "^1.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A MCDR kook useful plugin",
+          "zh_cn": "一个使用KookAPI对接Kook机器人的MCDR插件"
+        }
+      },
+      "size": 9299,
+      "hash_md5": "9b56aeb920c63b88f7ad7b6568a04032",
+      "hash_sha256": "ed3529a8587bce423ba7598153a9fe68b110d404c6a306c23ae3d676aef8cae2"
+    },
+    "170348094": {
+      "meta": {
+        "schema_version": 4,
+        "id": "kookin",
+        "name": "Kook In",
+        "version": "0.1.5",
+        "link": "https://github.com/Aimerny/Kookin",
+        "authors": [
+          "Aimerny"
+        ],
+        "dependencies": {
+          "kook_api": "^0.1.3",
+          "online_player_api": "^1.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A MCDR kook useful plugin",
+          "zh_cn": "一个使用KookAPI对接Kook机器人的MCDR插件"
+        }
+      },
+      "size": 12426,
+      "hash_md5": "794ed4125a671654caedd7038abea50f",
+      "hash_sha256": "c33e42b25a6ad4b983222b2fdfedb5d7f2539b425a2b6285da0ed6e419ce1c87"
+    },
+    "181493727": {
+      "meta": {
+        "schema_version": 4,
+        "id": "kookin",
+        "name": "Kook In",
+        "version": "0.1.6",
+        "link": "https://github.com/Aimerny/Kookin",
+        "authors": [
+          "Aimerny"
+        ],
+        "dependencies": {
+          "kook_api": "^0.1.3",
+          "online_player_api": "^1.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A MCDR kook useful plugin",
+          "zh_cn": "一个使用KookAPI对接Kook机器人的MCDR插件"
+        }
+      },
+      "size": 66262,
+      "hash_md5": "545b4300741889f68d75a2129cd0e199",
+      "hash_sha256": "38a45f17e353f44d365c371289b5b48db4479ddb32fd96a1c0e525f3918923e3"
+    }
+  },
+  "repos_info": {
+    "etag": "\"05d8de51b9d3eed12870c4c645d110beab4a71194f2ce836e0ea014619ce4a10\"",
+    "data": "H4sIAMqyoGYC/6VYW2/bNhT+K4Zfl0S+LYkNDF22AsNQDFuL9qVDIVASLbGmSI6kbDiC//sOL7rQ9bqYeUnMQ34fDw8Pz0XtlBTTzeT+4WG9WK8fljeTKeMFTq10+iHdlW//fPdb9XX9fmqmUI2N/B3nu9+ZkWwbStNO/ERqLNkxGaaFJHukzeQWUYVBwg8MSxi3U8pLwkYws95uO1/M7xfr+eoxVOaTVeaX51Qsn8xaBMxIpo2kZrbSWqhNkjipuiuJrpqsUVjmnGnM9F3O66RJevI3+59WhqaUnsjtYkTnlIJ4OscBnCoZKV3pmp6rMVo/WrnllPIDwNMrtkh61EBBWBlBAag24brCYDWYPtnjE6WvU8ciWvsPbGZJFNhP4uIqGo8BhYxHnNpEYsEdW5OpXBKhCWfXqRYgDRWXJWLkGV1PBUjLYLS6DmkRBor34HbXYR2kTey7yY8np0GOyR6sG8F3hjV0+ijsY/0EC621icYpKmr7Fu0rPb3Yp0cvvcC95e2bnvzx69sPE0EbeOSTQ0XyagKqTQzgSRDnyXI3CgzfP5Y16oVtDcn/meQSNrFAw7DDxygCg2vN3+4R5PDGUMYl0lxGMQYEbTC0G2iM6ihiC7SRCsZRDBZoA7RSDX6ZJ14ksnjV+zlr6swHonjOwbeRUqRkGEfR9OA26aNjJhHLqzi+Dtv6X+4OURl3hciFo4zyLIoA5hMLbhNVIR/6dRqrj6Ez2JBN4m00m8EObFpG3qJVTNpb7Lgg02i40Si6Dpu0HRtFrGxQGUfXg7usWaJnLGM182gXfJiWJGviY8+AH+XgLFa5AX6e0V9B57KLPW1dEx15UAsN/fYVfMbfvuE0gtho1mGD4OjCrp96Rdy9SO4L5Gi/Mdik/UEgXXWnF0jiyMMbaNJmCOqQu7u7tsLIpVdYF/noHNLmB5lXUA7FkLQdFgqHGmlbr26tYgUUsJSjIkq3Htzf8ivSanCrAjqzKC4LDKhqQrHSnEWav0cHpIxrsiX5i0rzi7wBQftGEZbjG0TpDXiQJjkBf4SGx8fsDNPIgG2QoDi0uL4apxhFJpMO2ya+ZCywoPwYHSpGcPvuJIZeu0iRNkSL2WJ5O3u8nS8/zn7crJabxfKzbW5FEa5a3c4ebherj7P7zXK1Wc0/O+9R1X8tetzMHZUJnV5t+Pm9DsEcxSYCVY0QPw/rN5fX5xT85sV9SL/Lnl3Vu1S8xgKyMgAYOL9tip7N6PE+TNM5b5ixyAzEB6ShujsTdvndbP3XUVcuXVVIpe6FglzLBnuZkPwrzvWZdAgJgfhAduQMbguJoYOyYKLyBgpZ0/8OM65LGitaEyl59/HEH9pHuGIEBDqU0UDEBWb+NOHRSY6ZGtkQmU8OJlzu4BkOmhOValwLGn4WOuDMZ+HUVOF8u4Vi8p+GyGBvzQXJzcH+/gKjPVEkI5ToozG3aDJQoe8JvVYjbc/uzQ8LvEUN1amr0Q1RjYj7doVlTXpTttOgR75x6zQKRObVjNWVxPnCME+pt8TJNnS1SJ2La77DrPv+xLA+wBkC844Lsk4+P/0L898WTr8TAAA="
+  }
+}

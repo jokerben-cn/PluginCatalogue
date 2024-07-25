@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "qqbot",
+  "authors": [
+    "Lonely-Sails"
+  ],
+  "repository": "https://github.com/Lonely-Sails/Minecraft_QQBot",
+  "branch": "main",
+  "related_path": ".",
+  "labels": [
+    "tool"
+  ],
+  "introduction": {}
+}

@@ -1,0 +1,113 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"92760783c70483e010ce332fb053afe97a70ea5ee09be5bfebb0361aab8e1e81\"",
+      "data": "H4sIALK7oGYC/+2a8W+bOBTH/5Uo1X6p1mAbbEyk3bStO9226/U29aTT1ikyYAh3JERg0mur/u/nZ6AlWZL1lqBpOn4oJY/n7wObvOdPXz/dDss8HY4Hw6lSi2JsWWKRjOJETUt/FGQzK5eLrLBuptk89kVCbNu2XpQqOyvii0SlUl9PpShkYWFGOCPUdYZPB0NRFFIVk0NLW5UuRCgXaSbC9QiVtThIlNvnczGTT1Phy/QOQk7VLF0P2Ar0iBBKxNYSjfCIgF4SaqX7qDBrpZpmuTbeDtMsTuYQqApwIgKVZPPik5+pz/djHcw9TjjRn+dZKCfGODw7PWPvZx767fS1c34RX5+fvnlm1mQplMi/WBNjbWasLGQeZHMl58o8UzK3MLUZf758ZtY1zmuVKpRZiJ1rDIKFtfoQT+hL/RhP6OkjJlUsFuvDYVSUpWl2paUne4S37lUeJJN5fABJrXJrZWoq9XRrd/P2xEmh9rtdo3Brfun5N6KFXotchnvJ1hr6hq/m+l5vzTemUi/9IsiThRmwX4y2EkhneSzmyY3YX1orGUXzPd9LySiAlFzq938/rUri1lrkyVIE13fVHQYyWerVOoD+mhbIq+uFBL2XmTKLlyg5EeHMpJFIpIW8W80TH15P/r46Pf/14zkpuPNWffizNDIinkDiA5eHXKXfkViqib6xWaKSYgpXZ6JQMoerjX876w0eBoe5iFRzF/rzIpd1SmwZg1wKpR9IgOeQIOKcIHZC3AuCxgSPbe8jSC1KP9Xht/tR8vGhAGmPTwcrcJWkhV1mO9x2+UMKbyxr8/uiPb/vYnUjts3VSTVXo1kQmvk0Nec+wZqaJvu60NeFvi70daGbulB/uSeNs/5+pUlglsHKAiXVSaF0gp7VL5cyTnVmCivZG7Bxm8NONtTvjNmfB1k5h0RN7K+n+Dp1l4vwEV5+nl3pmZjcR9prY96o1Ltza2tyvvtcFUNfpOmeeFOrtIDgJlkcQLdWaen6WXgNgsfHl6UTSXlZUg+F+lN+OYefnwZt++DI0Z9damNtlVzCOY/0tSgK9dGPgsuS48jRdsYdvVbismSUu+AdMW2NbAFKMJ5jCedEcDhiXx9lJJq4x8c/l2k6eDUV81jqynZ8PB78p/XTVxcil9Wj4tFoVD+zfqMPx7XU8ShHhHbAtY10t1y7FqVLrsUPm6Imas+1/f6l37/0+5fvxbW///LX241ci7dzrdbeSbV4L6qlJ8i7wM6YOmNk76Dalh/xuqZaxjzmcI5af5isLbuo9i1n7P1uqsU91fZVoa8KfVX4oanWY5uo1sFfT/F16t5EtV96dUm12NqanLuiWtwR1eJ1qmXUR5otuSfbVHuWLYFpHTcENpVOw7rUNoTqhhFwLwY2xY4+ulK4D2z6GFa+LD0cABXbEq3qUtvYjQ8ltqZjGjjRJgVGYSwLQqqPDLiaUdtbVWPMBg73wLLpjr/QdKu4QjM4ZUx7Mm7DqCiwYayrjx6V4OMgef8UDoFYdkgalm/f2wrLG09z3gnLo4bl8aFZ3vUYQd2wfCXdNcuvROmS5VGb5auoPcv3u7Z+19bv2r4Xy5/Hr9RGlkffzvJoX5bnF5iOMR7baDfLN37U7Z7lXeoyz26zfGXZzfJv/vB2szzqWb6vCn1V6KvCD8zyxENoE8vjr2f4OnNvQfk1ry5RHllbc3NXKI86QnnURvmjo6PBKoBSN4L2sksCwE1PQydHpg0dRgSa0RzsodR4GkUIznHADASbdjTSY10XA6r6HgC0LeCcc42/LHR8reaH9MCIaXOCEeddIGYt3TFirkbpDjHRSru4jtojZr+Z6DcT/WbieyHmu39O4g2Iib69XYz2bxeTC0zGlDddgq2I2fhR1DliUuq6zGn9E3Rj2YmYdnZ+tQsxUd8u7qtCXxX6qvB/Q8y1zL0FMde8ukNMtKFbjLrtFqOOusVotVusIdAHmNRwCJ1Nn+A2CjYY6VLCm/9+bl9lrunJmo6qI32x2hVlhEJ31UYUOqQGTe0QOrASAXAy0zN1CPRVfQaeEnqyNkJEz+m/ZQZLloo7AAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIABXyQGYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "166964880": {
+      "meta": {
+        "schema_version": 4,
+        "id": "auto_msg_title",
+        "name": "AutoMsgTitle",
+        "version": "0.1.1",
+        "link": "https://github.com/zhongbai2333/AutoMsgTitle",
+        "authors": [
+          "zhongbai233"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged>=2.12.0"
+        ],
+        "description": {
+          "en_us": "Auto Send Msg about Some places.",
+          "zh_cn": "在游戏某些区域自动弹出消息。"
+        }
+      },
+      "size": 8396,
+      "hash_md5": "e703cc77d8259800cde844f46e6523b5",
+      "hash_sha256": "57080c4cbf71cc0eeed7c492ecc06422168696094985c7ada61d5e1a8d4826cd"
+    },
+    "166757693": {
+      "meta": {
+        "schema_version": 4,
+        "id": "auto_msg_title",
+        "name": "AutoMsgTitle",
+        "version": "0.1.0",
+        "link": "https://github.com/zhongbai2333/AutoMsgTitle",
+        "authors": [
+          "zhongbai233"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged>=2.12.0"
+        ],
+        "description": {
+          "en_us": "Auto Send Msg about Some places.",
+          "zh_cn": "在游戏某些区域自动弹出消息。"
+        }
+      },
+      "size": 2900,
+      "hash_md5": "f44c628026875c8920031f5443ae5765",
+      "hash_sha256": "1fd429db9c6676ab971022c43d016d96441e1587ccdc13617e30d3b9b0b4d056"
+    },
+    "165577648": {
+      "meta": {
+        "schema_version": 4,
+        "id": "auto_msg_title",
+        "name": "AutoMsgTitle",
+        "version": "0.0.1",
+        "link": "https://github.com/zhongbai2333/AutoMsgTitle",
+        "authors": [
+          "zhongbai233"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged>=2.12.0"
+        ],
+        "description": {
+          "en_us": "Auto Send Msg about Some places.",
+          "zh_cn": "在游戏某些区域自动弹出消息。"
+        }
+      },
+      "size": 2900,
+      "hash_md5": "b8bcbf7a57b05f14ef415dbb0c76eb9b",
+      "hash_sha256": "25cff1551f544d91c8dbbef015f957724c5374209bf20836d35fd0c47ad1a37f"
+    },
+    "176348378": {
+      "meta": {
+        "schema_version": 4,
+        "id": "auto_msg_title",
+        "name": "AutoMsgTitle",
+        "version": "0.1.2",
+        "link": "https://github.com/zhongbai2333/AutoMsgTitle",
+        "authors": [
+          "zhongbai233"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged>=2.12.0"
+        ],
+        "description": {
+          "en_us": "Auto Send Msg about Some places.",
+          "zh_cn": "在游戏某些区域自动弹出消息。"
+        }
+      },
+      "size": 8384,
+      "hash_md5": "cadca51d18798705fe45c8d9ae878039",
+      "hash_sha256": "24f5e2543dc4bf8ca70630fb870cca4455aec72025f233d645cfa91402714a4f"
+    }
+  },
+  "repos_info": {
+    "etag": "\"512cdddc1835df2b0d79aa552781ba5ccca1f846d914aca2ad4525f528ac0ab7\"",
+    "data": "H4sIAI/YfWYC/62YW2/rNgyA/4qR17Vx6rRpEeDgbFiBvrQ93UG7DRkGQ7YVW40seZKcnMbIfx91sWOnWy+xX9qYFj9RNEmJqkYkGc29y9n57OIiuJqeeCPGExwa6eh7uEqvv90uvgVyM9KvUI61/JdS8TuZPhJFsZYvS0rD+uU24yyNEAmm06l/OLIQZI2UHrdEVGKQ8A3DAp6rEeUpYYcErWSMuTifXswury67Ft5d/zb7/c97Gj8/Te62T8H9NjUqCGZBIiwF1aMypQo5930rleOUqKyMSolFzJnCTI1jnvulX8/xdf3lXFNS4Th2Mi06JBbE0SwCkNI/tD9TOT00paV0OHzJKeUbAIWfncxvVPccwtJjOaBa+VxlGBwJY3bGJUSqIwwzapX5B840JAmOFTj5PMspgmk6dHaVL3DBLbKMZCxIoQhnRxjZUdc8LlLEyBYdyQN1g9H2HaFu1LQ+XkOIHgGwepVvki5+2VlbYkzW4PZjoQcAzVQvhcn8JxhtPgNROERJbrLZ5Pnuc1nwqmwkuPkwJut/vf7uPdAS6oWHIl4qTyt4D4Iw5RmlsU0AsWpVmreXarz9thWa957H3sH4hqFhK/zSl6URlf5bp1QMaQv+EEhx0RfeYVWdRzOXwijvO4dhmArJeW/PGobZLqQs8cfi+z2mQckmkViZR64ODoLfpxCSkqQM477EhlP5TcmOBGJx1htdYyr3y0YBSnsHAbJVMqI86suCob7hVL7MkNuwVDiAlZqsMV2wwMshwBqzByvRPw6MucLEQY2FbVNBTPQl1xi/qsEUsbREaW9yw6lPBynaYjGAvQ5kKyRTgkTlIAVyj2odPqIBTN6TDk81w5DtRmrckedE9feEoXRTYxi0juNXeC0YoPrWmE5dt5uHezXM7vGf87jGY4gg1Bi/+qlAKqvdUyCB+3tHU/wqQnB+G4/HVYaRPWbkWPTPdgsxe5+IMzhR9uRVNQZOWDlSpi1YGnMT6BMoR0lfixtOEyfDHC86cVFAK90Xaxgdak4oloqz/l+tAXX4jCuyJPGHGqX3puiwqq+SsBifIEpPIBwViQnEOTSmbueJMO2/7WgILAfl2LVIFKP+G2WNqXx3Ok9wQfnLEJWrRTIJLzBS0JEhpZnBJDg/nQSnwdXj2XQeXM0nVwtzc1Ekr0bNToPLx2AyP7ucT2cLG38y+59Bwdl8er6o67tbAfz8YB+nF2i2M5m1lH/eq87fVY0pRN4xPWQz95od24JmPMcFnE5Al0F+mTZ3q59mQfe4EvOSae/pu7QNUnBkPhDW5xxtxcOLyuxWnCEZ2noAciVK7GSF4M84VgfSfS3qiDdkRVodr9E3J6quLCEyLqFT0Ncc+ze2va0tnZiyIQSvb9Hcql2ZTVqKgEMR7Yh4gZlbTodISYyZxOa+DxpXEwQFPZ2OJ+37xZv7J+8GMywQ9R7KCJS8W6vord1QWSQ/3LXczcNtDXg7rdzk0m9P2b5LjGePN/R58cfFdvG4+jLStxZIX4TpPWUFRWfvbCJDhfOCdu8yNzhy555Qt2F8uYQO4Z+SiI5vFC9IrB3/19/wtCaSRIQSZZxRmNU2lw3Oay1vOkkdWC6kErxEJVWh7cw0KEdS2duYAoucNB+7GnUuZvRHRoQp1BHpItA2WBAbrvv3lDpf7MxVQF6ENjcVX2FW35UyrDawik4AtE/Jtfxs9y/2b0EfhxYAAA=="
+  }
+}

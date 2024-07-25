@@ -1,0 +1,81 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"d0262b6e22d3d72aee7ec4ff4089ce41433189f9a51007954935f46cc04a78f7\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAFFBiWYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "178448579": {
+      "meta": {
+        "schema_version": 4,
+        "id": "qq_bot",
+        "name": "QQBot",
+        "version": "1.1.0",
+        "link": "https://github.com/Lonely-Sails/Minecraft_QQBot",
+        "authors": [],
+        "dependencies": {},
+        "requirements": [
+          "requests>=2.22.0"
+        ],
+        "description": {
+          "en_us": "与此机器人服务器交互的配套插件，可以发送消息到 QQ 群。"
+        }
+      },
+      "size": 2726,
+      "hash_md5": "52e5b3229797a9167b3a829ab185c78f",
+      "hash_sha256": "41d3a34a70baac9dd0c2c252cabb1c87081cd6f8d21a721cd290ed25667e2235"
+    },
+    "179470700": {
+      "meta": {
+        "schema_version": 4,
+        "id": "qq_bot",
+        "name": "QQBot",
+        "version": "1.2.0",
+        "link": "https://github.com/Lonely-Sails/Minecraft_QQBot",
+        "authors": [],
+        "dependencies": {},
+        "requirements": [
+          "requests>=2.22.0"
+        ],
+        "description": {
+          "en_us": "一个基于 Nonebot2 的 Minecraft 服务器 QQ 机器人，支持多服使用"
+        }
+      },
+      "size": 2911,
+      "hash_md5": "fb787760d96fe990bb161404e6fcabc4",
+      "hash_sha256": "8977a767dac3232d72b59a5728b7357865c5622c3fb1d6203cca7a4f6da36d85"
+    },
+    "180156002": {
+      "meta": {
+        "schema_version": 4,
+        "id": "qq_bot",
+        "name": "QQBot",
+        "version": "1.3.0",
+        "link": "https://github.com/Lonely-Sails/Minecraft_QQBot",
+        "authors": [],
+        "dependencies": {},
+        "requirements": [
+          "requests>=2.22.0"
+        ],
+        "description": {
+          "en_us": "一个基于 Nonebot2 的 Minecraft 服务器 QQ 机器人，支持多服使用"
+        }
+      },
+      "size": 2976,
+      "hash_md5": "a5b611d8bac85118f31d5f93f2dff12e",
+      "hash_sha256": "1ab1de8c77d2085d2ef7986ce7edebc2856207fa9972ebcdfe6b4356ee68e69f"
+    }
+  },
+  "repos_info": {
+    "etag": "\"5e72b3c025ebcaec008e567440a0b2c5891b33ebe11a823fede5d30c6b4ba73c\"",
+    "data": "H4sIAKoaomYC/+2YbW/jNgyA/0qQr2trx3kPMNyw3d6A3nXdAgzrOhiyTce6yJYnyclaI/99lPwW57pLF/tjgaJ1afERRVOUyHxIg+FqsLCd8WS6cKZXg2HCA3CNdPiru928v7td3q7/uB/qVyQGLf+Wq99A7EBoYZgx5lZvPtAEfEFCdX1/j6Os1shU0B1RelxImASU8H2Cr1aDfMj4hiYvELSeMWY0nzlTe2kv2ybeGRO/4z9sfjImEpyBCDcTTL+NlErlyrIKqbzZUBVlXiZB+DxRkKgbn8dWZtXwd7uvJxqzESWomEWLTpEpLXEFA5nSesH4SMXs1JwjvRc0Qs4Y3yPOvWBKq9ZuUDTZdEChdm5xFQF6FYcdjHuoVJeZZzRz8wd9a2AS/SwguAhX6qKBOpIOuSUg5QU186QvaKooTy4ztUXQSC42JKHP5HIkEgxJW3kZwWhqBOwwfC9jFKq5Zfaj/3QoLPKB7vArdOCeMDRWPaUmL9wduc58HarAJUFs9rzJBof/vVfaySWA+mNp9cdsOg/JYzaBBQw+8gQ8rpzBYzafLSaD+3t8ms3H+H46my30KA+fw9D2UTKG8DFb2iOULEJ/jpKlfp4v/QC1pt4SJaEdai0bBrVRBmnjkKlDRg146RiJeR5NNMBB1dnYHlXgQmsSzlE+nzo4cmzbTrF9xfYoW375m5jI+LKPNO/cpz2DsQxDw7bw1JWlEbn+XaUCHzMO8bggiouu8BYrb/1r5lJA4q5zGIbJ8px39qxhmPNOygxetxHPMQ1K1js+yWKvTOG94JuNTqSkmwSgK7Hm5FZ92niCJH7UGV1h8vKpiAKy6RwEpEjqHuNeVxYOtQwnt2REyrNWuT1Yqcka0wYLCPsAa0wDVqJ7HBhzhYmDCotnvcKY6EquMFZegRlJNhnZdCbXnOpWsyHPIHqwtwQVGTJRgnpZLwmyQR3dmLweTG5Ip1exfshpdY9AnZiq7p4wlPbW6Aet4/gzvBb0kH0rTCuvF4dH+aqf0+PFecoCqo8g1Bgr/yolKqrckxIB3b2jKVbuEbxd3tzc5BGQ4poRg+i+2wuIOfuEH+G9tyMvrzB4w4qJMrVMaMwNsLhhnARdLa45dZz0c71oxUWaMdYVaxgtakwZSIXX+M5frQa1+AlXNKT+q0q7c1O0WPk7SRMfrghjVxiOivoU4xxr6vLk8YB1P3Y0BJdDYihrOQak+0FZYXKrvJ0HkDL+1EfmOiKZDS+AKKwbidJMx3Ym1/b0erRY2+PVZLxy5g+mAZMGn42aXzvTtb1YTUerSTEqzWT0H4OcGf48VPm9XAE+vrLK1As0x5mMjpS/aVRXZ1V9hpF3SYVbz71LLi2QIx5DireTqp8l6bN+Hs1m7duKz7NEO29ko3xPFF6ZT6XVRUejfnlSUXEWR0S6RUJAuRIZlLJU8E/gqxNpk4xa4j3d0hN1c6NqqmCjTKWfYaWgGzP14KK6rQx1TNYQglfNwASTSpOsgyMi0ojHWiKeQlIuplm6Xjn1IZFgWpZYt2oHxMWXqTugP68Ht+Uo7dg0+KdsIuKb833EcgJpVdim1fnhvT9b/8g+Pfw+fX5Yf/881C0Tolt0+sjYYk5pfEGlqyBOWbvdugevvNa4usriYYgFwN8ZFa21K55SX/v1z7/wvx2V1KOMKrPYNPPQwrqXUPr5yFuln6q4qSImgJBkTLlF5WXcRqiJmhRETOtPmQ9bTaGrYpwiLZHe4sf2ClrEYvOesdIVB1Pox6lb7DzFt5BUGwAjSPFYhyfaoKixPT+c9PnemtNvzem35vRbcxr3Nag95rzWAXNcMtfHxOFfFwUi1lUbAAA="
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"2bfe87795664c44ddd1ae448be362032a71ebaa005035a8da43f7e205987a003\"",
+      "data": "H4sIACphomYC/+2dfXPbNhKHvwrizM20c5aFF77P9G6SyEnTi+M6UXJt2huLlmiJMUUqJGVHzvS7HwASJiVTVGwT/uNuO+7EhpYLCqR+y0cLLP74trdMoz0P7c3yfJF5/b6/CA+mYT5bnh2Mk3k/DRZJ1h++fv8hDpO4/2Lm58/TcDIN+CtR4GdB1ieWRU2bOXhvH+35WRbk2Wl3TvuFR+F7uYgSf7Lpu2jNHuj/2z9jfx7sR/5ZEP0lOpvl82izq1oXrc5zf9q/pAfWAROewgn3cdOfGKNlPktS3vhtL0qmYSy6eOlHURD3nqeBn89ujqKOazsOtvjfcTIJTmXj3tHgxPr429to/Pm1cTwcG8eDZ1SO/aWf++mtsZetanyWWZCOkzgP4ly+j2Vf9fHPy58M4WWaln6KzuTAt15N4TLr33oDOwbwlv15EkXJFXd1eufu+jfHVo7CeHpvR/zYb/0knwV8MLmRvB+mYZbf59Tkcd/kP3xEpauMj24aTO7hrDySn9xVzM/rm7zTC5/Ls2ychouc35P3Oc2144XDJJ36cXjt39chP176kZ/FexwvjxMOgkt+r97HQ3Hgt/4iDS/98eqv4mzGQXjJx/7eXjc8CKf5ahEILx+4ubwWYR6c+pO5/GSf+1EW/LX+AX53eHpxNTgevJtdB47xi3X85kL68aenQoWESSUf/JJPg/yUn888zMNsJl6d+1le9HXbfpL657nqmP+9SINSmGqNY/Fm+JvwheUexdToYbtH3CExPYI9Yn0SrhbLs4j3uN3OZJ8q0ecWf3QQTgpnfcIlCbsGdisJVS0bg/msPpj/uuq9el4fmKqLg8XqWrwiNf5G2mT0CDbUuDjjnj+Wd/8fZ0n+n5vTMIjjOtShm5p8ZJ3MXfx2cMg1ebo6Hrz+6b6aHMZ9YjLLeaAir7+Jv5nP+dv4mzn4Dm32F4vNw++u0Fu6f4hWt7t8mGpv8/1A/d7mtksl39rHwzV9m+u7q/s2T/fR+W2+ulL87ee6VfufJ/l26S8/3KfKmH++onAsL0M/GedB3styLsjz8ubKpVGpTJPC7bVoM0zLsIXE85tGPgqPk2UslJm6uzSd8J9PheBNvsPqLE2u+FCc3vR0zydhdXz5ONzfUOO//lMEuDMeYu/NDOXxtSfu63DxII/l8TWPZ8lkJVz10K9cZtAo8/MkDXuLFX+Sj0fokt813AfKE+RfJuEEhXmGzvj1uBDW45kfT4Psz/TPuIfGX8Tp7BcOPJQtF4skzdEkzPyzKECjJ0/EHZCNUJKKP5I4CuNghET49+MJOlshHh5z4ZYrHfqyDNIVKh4R0DgK+V2GROSTZxKjYL7I+QF5yu33+J3YCe1hy2L8v25pr3SqjfbW/euhPVKjvbI/oD2gPaA9oL0a7V0Y46iR9sgdaY88iPasHjGHxPVMHvONFtq7saOeYeijPdvAmFJiVhKqWlpp77evz2KgPaA9oD2gvf892jOZ0UR7hJm7RJ15GG/FvdtWenCP6Mc90jnukXXc8ycTVLAa4reFwrUC5S5mkWwsxlj8yd9l8dKLN69LHMtQOI2TNChZLIwXy7wrFGOGaxOX2p2imHKqC8U2/OtAMbOeeFP9AYoBigGKAYpV9PD6hfH6twYUM++SeLs/hLEeoT3Khtj2TNOjZBuEKTuCPYY9w9IHYQYl1HFMuxJP1dIGYa+DN2efvg/C4mUUbcUwUGJQYlDi/2UlbiOjrz3+GN7jXXLx5HI02UlHlFhOEx0x22hTW6GiRKntLTrasGLa6MjUnwwzO0+GmZvJsGcTflHQJBlfBCkK5/40UIR0gN4HAeIXYTIP0HmSorlgoEmQ+2FUZsJehl/5wUU+THLUyI+TeDVPltkIzflNINzx6+OjfCbyXT88NfCPXaETtbHNbyGjU3RSTnWh04Z/PehEq+iv+gN0goANARvQqXrm//nisjdvRCf6SOiEe9QdYsszHA+3oZOyM7H6slMLOjHq2C4zauikWtrQ6WfL/PUa0AmUGJQYlPjx0Im4BmtMLGG2S21dj1lb0alu5WhEJ6ofnWjn6ETX0Wm56OVJTyaOijl+avre2TKecnRSE/7C+YLr/jKT0w77Ux7hcsR9jlCcXBUc1TBLMInRfDxJS5cdMZPrYNN1bNIlMimfmohpw70eYKqm/anugJcgSkOUBl6qHvRf0sNP5428RB6Hl7DBf8Qcf2p5xN7OS8LOHhLmGcRjGuf7YUodg5m1+X6qpY2XXr1683UAvARKDEoMSvyIvGRJUbjFS6Zt71JbR62RbeClNStTIy8R/bxEOueljYl4Rbao4KBlPEnGyzm/vryJe0fnaTJHRy8G79APT5nVVZLINQ3DwtTqFHhKn7qAZ929HuDBFfCU3QHwQJiFMAvAUwOe7NXJvxqBBz8S8LAeYUNie9jwMGsBnsLO9TDxDFsb8LguZYbjVMl11dCGOy+tz+9eAO6ADoMOgw4/4sw6bJtNuOParVJbSKixlXbqVpZG2sH6aQd3Tjv41sQ6FAdXaOGPL4IcicuKRuNllifz0b6cT3cW5DxaouArv+5ZeBZGYV6uPXrPL32ORnxw/cmYx9TTMe9zhPpolAXxpPyLn+XNLDy5kKnMPo39OE5ydHOwyC59+VLNxxNdl1P2uk0uMYdZjHY6H0/51MVa6+51sJZRTy6V3QFrQYyHGA+sVcOEyD1pKiBo3LGkhPGQkhI8wNMetYfE8fgPbksx3diJqhL6iMtmBmXMqgS0bGglruuPx8+AuECNQY1BjR8zwWRazZUeyC6tddW3Vk3IVbfSNyHP0J9gMjpPMBmbCaZiLdMoiEUdvhHKrsJ8PENhOZNuES25tCN+1c/DaX39UpaIanurRSJST8aPSEy/m/sXAXpxIhc1lVz1OUviYjGTWBMlkljnfhj1FmmSnIsjza6SVrZlu5gSp0uQUj41gdSGex0gxWpJK9UdgBSEbgjdAFLV0//hhR03Ja3Y4yStaA+7PYLF4mNMPWNr0qpuZ3pUX9LKtg1mmbj6Dko1tCHUYfzp00dAKNBh0GHQ4UdEKNNtTFpZhrFLa7mGbslabVjpy1ox/Vkr1nnWiq1nrZ4+lWXv3gfpZZAKRCowid8DaPT++PTd4Yf3h88Gg3cjNFmKguQok5ZI1j8/C+OCipIU8eEJeXv5Mr/+/F3k6Cm1kfIqujpBPw+HvwrGqvp6w+8VJG6TZYZ4IEHZwp8LhKuKTNQ8DMJsnKSTdQ9lLb9J8Rq/EPtqoRVCPTSq2v/xEz3AB3iEwoyf4pdlyFVImalkWXmD8zMo/5E120sfqHa7czLMZmeJz1tr7joiQosYFrGcTtdtKZ+aiHDDvQ4ipDUiVN0BEcKTCDyJABFWMDP4Mnn/tYEI6aMRoVhWLdZUU+pht4UIb+wMj7naiNB0scMsUm3KpRraiHAw+z3/DEQIOgw6DDp8byK8U+l0Yhq4ccUWs3fprFj6upUG61b6igNS/TRIO6dB2kiDJcSVW2B5BWQ9L+Yu5jORCyv2q+JQtIj8FVeVwuTZMk96eRrOkZR/lIfzIFnmAqnioKjUXxrKtF0W8Guao1Hh8nSynC+qahgCAKNQnYogzElwtpx2hlfYxMRl3eJV4VMbXq2514FXpDZzUXUHeAVhHcI64FWNDBKDvGvAK/I4ZTFkQMemLA9oeqbTilelna2zjKDpWJRQ26jwqmxoxavzmPiAV6DDoMOgw4+DV9hxG3emcqxdMisUtIWuKit90xWJ/umKpPPpimTLdMUnT2ZBtM465bZU9UmK8zCThTPi4EqWGuRWxYHit0mVB0M/PKWkq5mIJjMsQq1Ol3Qpn5rAaMO9HjCq8k6qOwAjCMgQkAGMas/0b5zDk0YwepS8E+kR/mMNCRH5JANvA6PCzh1i0yOmZ+jLOxmuaRPHqcoFqoY2MHrhvprmAEagw6DDoMOPNxMRO6yxujq1yC6ttVXd9Ft0tG5lYI10hPXTEe6cjjbqZ6TBPOE3Apr56WScCFL6c4/7+HNPAE+ZCPpB1V0v0Ylf3mWU14ioX5LUj6L+eiDrcVz60TIQhTSEh9MyaSUD9AhtLA/j91Yi5/it0NxPL8QYi9zT3M9zgWLiPPhdlKluZVpqfUZiD4k8VlZ6RTyQ87MW16k+S1LeKdxhZ9BGTcoM2i20FT61Qduaex3Qhg9qX8mW3QG0wcMCPCwAtNWh7ZcBbYC2Uj0eB9qoLChsqvXeW6GNlsXgTUMjtFHLYhatQVvR0Apttm1ZAG2gw6DDoMOPCG02cxszWmyX1FoeM9uY7cbK1sZsPMDoZrYyhnXIbKXHitnWccxTUwJPORGJ1WDFvsL7FWZ1RzwG/69r4pE+9RFP3b0e4mF14pHdAfFApIVIC8RTJ56fX/uNxMPuVHmwtH8g9zDPsFQSqo17mNg0mDCd3GM6HGPq3CMb2rnHOvwduAfUGNQY1PgRucckjWUzZAX4Vqm11VdM27mnEFqskXuYfu5hnXMPa+OesmAgv97hV3SVJlWdjI11UuiKd4z4vRGMRdgsrYq80XlVmlCsh+L/hFm2DLKukInTMv8fd4pMpU9dyLTuXg8yVd90qu4AmSBIQ5AGZKoh0/PwPGhEJvpISSIsd50U2/t6jLbA0o2dpbPGoGFRTOobY6mGVli6+vVqy5KnXjGWwEwgxyDHIMeamAk3V2t3dkmu5RFrKzTdFlw90ET7zXLZPTvRztmJrrNTlicLxURI7FSF+EUU5CRmyPG/bmbSFXPt6gglASuM16w2aUplnaS7dU4r3QZFQ5jLeoPCbJ6kQWecZdkO7XYDYuVTG2etudfDWaTGWUV3wFkQ2CGwA2fVOetD/L6Rs8jjcZb8DpRaHjbaOUvZmVgjZ2HHtRy7xllFQytnXeLffmvjLAKcBXIMcgxyrIGzmOsw2shZ1N4tucxu46wNwdXDWaTfLJfdcxbpnLPWqk2sU053cGNhapOO4Ub61Ac3dfd64AbX4UZ2B3AD0RSiKcBNHW5Oji8b4eYO5SGECp1JFULVoQ+hHTKk2GOmR5x22insLJ2b/3K44eqJnTrtyIZ22vmCr9poBwPtgD6DPoM+66Adx6WNNfWIYe2SXEsVI99COxuCq4d2cL9ZLrunHdw57WxUjxgmOX9phdLgKk3yQO7aJKpIZPsomyXLaMIxKLnIUByOgxSFaLrkl7hICP3qjy8Qv4/SVT4ryzz4SNTeiwIkhgOdh1Gg9omqCqTvy9+LqX/76OjF4F254/B+uXdV/6YmhR/OgjDyRdJqfyMnJRdHEdlF8cnwi0rpMi51B1eVX3FlxVhVNytv+Tvhv4gEaU/9EvnL6az8fZYkqb8q/xALuZbiw1G+FvhpXv6eJuOLQP0RrALxJshf3aCnYbv8x+x0/qLyqQk9N9x3j55krTKh6g7QEx5t4NHm/xs9jwZj68P8Y/bp3y+vPw1P2LH8/8PVLf4kreUJx5OUbsNPeaScPSFDHw/JZSzciaR5utxCpNjpEXuImWc6HrG3E2ndjmkshkEtbBNSrapVDZuDfbg6jn6Jzl59nI3px+dj9jaaDE5Wbz8/Y0fDw+tmPH0hB6tXjOOBGGqgVJBykHKQ8g6rvlPKTLd53iMxd2swI9sQdc1K165aZKOyYYNkdkuqpPM6h2SzzmFHmTjDsQimrNNC7cqnLhxad68Hh6pphqo7wCGIoRBDAYdqOGS8/Xx4dfT5CDfiELlfOk4LD9EedofYlTsEt/MQdYSdSVQ01sJDzHAZwbWvnMqG7+Kh67eDi+uj4bOr3TxEgIdAy0HLQct18BBrnp9osa08VGkrbuGhyopq5CHSb5XM7nmIdM5Da/MU+XVHvlyAVcTNLF9FAZoHWebzqJoF8USk5OYBf4KfdMVOjDGKnU53/1U+dbHTuvvO2Uncw5ji2kqDskOgJ4i4EHGBnmr0dH10fbQ6GkyvN+mpLiL612oJNrLl3irEw6SFjcweJWKHSoY9om+3K2ZT22JuVUBQNXwPGx2xo89jenR9QbdMZVRDe8ADKWARiDSINIh015MZGbOb0QgbWxRYKSt11aKsJjKqW2kiIyWP/W2S2SkW1eNcV2BU96nQ6HWMxvx9ypqASRygK5/fHChPkHrf6DxN5qgcDjFBsZjPKDmKHOC/i6mGq6LtfVkbg7+HvC8rcJSIVbwc5OODjuiKmpZl2IbdJV0pn5roasO9DrrC2CDVs4HqEOgKAjcEbqCriq5ek7eff8dvr09YA13diMj30VX9iPtRlqhuJXewpDzAq+jdQFnSjmI5H4SonS51UBZxXdslbrWnsGr4Hso6NLlAmkfDC7KdsuSAAWWBWINYg1jroCy7EKvblNW8a9W6spY1iW5R1oaVpY2ypDz2t0lm15R1E706pKwbn4qyRNsBNg6IpQhqnCTRiSojKNeIFYvG1Fa/oydPZGnCUbkPcGfgRC0Ds47BqfCpDZzW3GsCp1paSnUI4ASxGGIxgFMdnI44OB0NjraA013SUvUjHgBO2B5i0zPNlvRU3c7yqE5wMizLddwaOBUN3wdObwe/0+Ph1GwFJ0hPgViDWINYawEnappGYwV3incJsKX2s2rmpsqK6uSmW9mpSjE1cFPn2akbn5vcxFs74x/bdN2u+Uf61Mc/dffa+KdH6wQkuwQCgqAKQRUIaJ2AxuR4eLGVgHr07gxUHPMwCiJULGAyrF0UJOxsj7o6KcihzDHqFCQbvpeCpquj6yneQUE9ChwEkg2SDZKtYycrg9DmnazMXRJse9hu56DCStfuv5U+9rerphYW6lEdNNRb29hKXEJ+Sc+ioNjl9+jFwA/mSYzKFcHBOf9cBBP0wz9+wgfWAen50WLm/6iSTv5kgmZBtKiWPtW2sRLH85H5L2nCaFD6JQEA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAMrK+WUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "142128857": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.5.3",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 42168,
+      "hash_md5": "6a029003a2edcc17a1381619e0e702ef",
+      "hash_sha256": "2dc22f154bf28624f0152e3e380aaa326bffb852f1a5d507f96efbf431949104"
+    },
+    "132879347": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.5.2",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 41943,
+      "hash_md5": "b4ade28727f2b136e67d23de90f3ac26",
+      "hash_sha256": "fd82900c845ce06e7b6b9b14cc02717aec778eec4389c0365167f0cbafcfd213"
+    },
+    "102284355": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.5.1",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 41606,
+      "hash_md5": "0564448e2da093c94aa78bd74329d0b5",
+      "hash_sha256": "bf4cada4e3fdfe1fc3209468b0b3e4a8cfbaf33480977013efc369278685ce56"
+    },
+    "99234882": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.5.0",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 42075,
+      "hash_md5": "55950053bbaa31485bc92d28757137ab",
+      "hash_sha256": "3dc6f1a43ade7043a403ec6852a6b21c132a8dd16b9e91eef2f4e4b19be685df"
+    },
+    "97342336": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.4.1",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 41656,
+      "hash_md5": "7fbe118f67604a709bddf675687893a5",
+      "hash_sha256": "9d77fc489b341320a2f4254a984740224fec12c5e56a99785f007edb60562190"
+    },
+    "77436501": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.3.0",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 41595,
+      "hash_md5": "fd0c2a361e73eb44475bbffa3a36c02b",
+      "hash_sha256": "845dbd3238501c900606704bf3ef481029038769724ef1b81cb6203b46e6d3ee"
+    },
+    "59083619": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.2.0",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 41540,
+      "hash_md5": "c5d46d8976688a0a058f48109cf384a8",
+      "hash_sha256": "fdbd4c5d9ce518eca4575c927642ae960b2f64241cced012b40da0034973b493"
+    },
+    "58621274": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.1.1",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 40894,
+      "hash_md5": "a7348cb840c0ebed4e8fa766c2e7e32a",
+      "hash_sha256": "f22fe7428d146e3a377aea17870a62ff3f9823f5b0e3052e39b3e2aa7a119110"
+    },
+    "49571885": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.5",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 40833,
+      "hash_md5": "f30a8c2483687531c599cf582216acf6",
+      "hash_sha256": "48b6bdd639a387580feb343a3ac321987f665c399a90388dc885dd8465526ef4"
+    },
+    "49266362": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.4",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 40739,
+      "hash_md5": "a910ae953e9c3d6067d372fcadf61247",
+      "hash_sha256": "65fb971364042f72a47ef7395f02bcdfc5189b0eae96944d4e2e441c5d8c5fea"
+    },
+    "49258776": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.3",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 40515,
+      "hash_md5": "262d3daafac374fbdc0d83a0e62b102a",
+      "hash_sha256": "83958edc82140ca3064a5c24f8e1d76b036089e5add4a2c7bbc3ffee9c8f9d80"
+    },
+    "46201882": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.2",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 40510,
+      "hash_md5": "7965c668d0fe07b2e69a566900861b5b",
+      "hash_sha256": "0bcaf77b6668e016bfdbc1942ee95f6357d404a9b6eeae695d8b4cd901f0e39a"
+    },
+    "46089687": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.1",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 39832,
+      "hash_md5": "32a524a076922c9c798176ba606e4677",
+      "hash_sha256": "2044a24ebd73db068bce2b2a5bd8dd07d0fcdd3af3f427a1d8f62cf385530eb7"
+    },
+    "46050608": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.0.0",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 38924,
+      "hash_md5": "849409f48710e6744a376d7fd93631f4",
+      "hash_sha256": "2bd011417ae4e13b77aa9a86d0d7a6f7cc62afe1b96c4f1f75d6d3d6d499487c"
+    },
+    "174002215": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.6.1",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 45534,
+      "hash_md5": "3b8377d86ba81fb3f90a174ecde46614",
+      "hash_sha256": "86019ca65bb17f4a306243bf856f89d2f3c71ed3435ffe4fdc5a501856144da4"
+    },
+    "180609409": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.6.3",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      },
+      "size": 45647,
+      "hash_md5": "2ee2d9bafe26ff42f33749ee2e8a0910",
+      "hash_sha256": "a655d65353e31f0bd822843e198d1448d857e563a1c58e6dda48d4084dbbab6e"
+    }
+  },
+  "repos_info": {
+    "etag": "\"75425482733d432ad3aefa37538494e96008036947e08a70a02cff3254df2ebf\"",
+    "data": "H4sIANIBoWYC/+2Y8W/iNhTH/5WIX9c2QKE9kE43bb2hm9prt1HtxjQhJzGJi2NntgODiP99z44TEm7tFfzTpP7SEsffT56fn5/9XHRI1Bl7/d7ounvVvxyeeR3GIzw3rZ27m4/re/ozDSejLfry6ypky83ddHl5d/PH5m77+L6ju6MU674/Jkj9IEgUY926yCmdV6+mn357ZIQzv90nE2SFlO6xQFRiaOFrhgU8Fx3KY8KaWi0wRg2Gg/6g+270laWb++VoM+v/lKMvWRJN6Cp4+qX3+eZT9+4mHmo5gq8hMc8F1YpEqUyOfb9slRcxUUke5BKLkDOFmboIeernfvW9D6v3A02JheWUH9ZNh8SMWFqJAKT0m+NIVEoPzWgIml0XnFK+BsD8mI/4tWzPICw+hQGywucqweA4eL8zLiBSHWmQkRTmHzjOUCQ4UeDoOI4VgUk6VHaFL3DGS1weyFCQTEG3I41rSTWLixgxskUnsEBqENquI6VGorV4BeF3pLjUFL5ZVOFmV9oQYrICF58CPBBrntpkZj3fN9xjXE8UnqMoNSvWrOXd66P8IClEuJ4KLQw4ElGIpPJC6OYFWK0xZl4aemDtCgz2uPC0hV5EZMhFZNvLuBfLRnJ5efTG+c8ZpUnfct+zAN+oNWaJN6dTtLjQf6v1E8L6RAEXSHFxOrZFKVqP5isKo/R0ulGblMe5gweN2uwAUub4deH8PM1AZL1iWJ4GNrE5gvcrBUlJYobx6ayaUPh13g0EYmHiAK0Ahf1VzjCKHSYYlekuoDw4nQKdfEMofJkgu8eouZNlmqkBbaTACzekBuyRSrjMsTFRmDmugLC/KZjv05kVwC8qJEUszlHswKwJ1bYdoy0WTjZaRJnHmBIkyB3T2B7SOA0ETmbuGYcHDFdmVm2d0DslymXcRt8OcleojsuvwLrBKTtWgFbGLRO6feWa0f/zC/Y07xZaGuAX32VIJZUzMiSwiy+03i8CBIeli4uLIsGo3NZTLFzWaik3e5AIEzjAnUwqKgCcX1KkzFl7YUyM4PBNOYpOt7Im1DHgup235jyD6vN0oFG3eCmhWCrOXOalRrTIjCuyIOGrKo3n4S1K8UESFuIzROkZBJkiIYG4hTrO7gYBpi5bgZbDEKC0tzUGxchlw6oAhW/PtRHOKN+45ZoGwyxXgZGCUgYpTet3e6PzXu+8O5x2R+P+9bj/bmbK+Cxq9eoPzrvX573RtDcc97rjQX9WxpZMnu80vJ5VWdjaDj+/WfjoQZktRiYN2fd70fgFUUghqo4rtOrvrdjxFVrCU5zBaQBUDFaKqf+2+mk4uGyfD0KeM+2mqwG0r5GCo+dha3W00CY8bFRiL0iQnJfLGtqVyLFtywR/wqE6aN0nk1bzmizJgdycYfYVoRFD2ZjDWVtX/vs3ZcFXWWquxVIiBK9uj+zAbYaMGkrgoYC2mniGmR1OjezrsZMQM4nNfRfUddoFNM7o+eVFt3mxNvn86N1iCUWAN8EMC0S9hzwAsXdbAryVVcgs+sdeS91OHm4r0MuLyFoh/da3mzdr4dV0Qp9mvw+3s+nHTUfX9khfDemNYQl5Ze9kIucKpxlt3+qtcWCPJHNd0/DFAo7hf+dEtLykeEZCPQd//gVPKyJJQChRxi2ZGW9diVdT0nCsdWkVZFV4RXiBcqrmZbmjUSmSqrweyLBIST3zRad1gaEnHBGmUKtJr/2myYKUobt/T6n1xs7Uzmk2L5en4kvMqvtCCDjFUx3NYIMixvpid3Dv9HYN+nYN+nYN+v+/BmVYrSFptTeTZnlav9j9C5cLkFaNGQAA"
+  }
+}
